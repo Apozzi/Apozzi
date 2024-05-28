@@ -32,7 +32,7 @@ Thank you for visiting my profile, please see the pinned projects below for more
     /></a>
     <a href="mailto:eanderea1@protonmail.com"
       ><img
-        src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"
+        src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white"
         alt="Email"
     /></a>
   </div>
