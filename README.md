@@ -4,7 +4,7 @@ My academic and professional journey has been deeply influenced by my passion fo
 
 ---
 
-Thank you for visiting my profile. Feel free to explore my repositories and contact me if you are interested in collaborating on any project.
+Thank you for visiting my profile.
 
 ---
 
