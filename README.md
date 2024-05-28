@@ -11,6 +11,6 @@ Thank you for visiting my profile.
 #### Contact
 
 - **Email**: eanderea1@protonmail.com
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/andersonpozzi/](https://www.linkedin.com/in/anderson-rodrigo-pozzi-a06246186/))
-- **Personal Website**: [Your Portfolio]([https://www.andersonpozzi.dev](https://adeveloper.com.br))
+- **LinkedIn**: [Profile](https://www.linkedin.com/in/anderson-rodrigo-pozzi-a06246186/)
+- **Personal Website**: [Adeveloper](https://adeveloper.com.br)
 
