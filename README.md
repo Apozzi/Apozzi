@@ -13,7 +13,7 @@ Thank you for visiting my profile.
 
 ---
 
-#### Please see the projects pinned below:
+Please see the projects pinned below:
 
 
 
