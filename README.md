@@ -4,7 +4,7 @@ Deeply passion for research and mathematics. I am currently fascinated by optimi
 
 ---
 
-Thank you for visiting my profile, please see the pinned projects below for more!
+[banner](https://github.com/Apozzi/Apozzi/assets/10789792/a9476f82-5af3-4769-97b6-f2f5d52e8274)
 
 ---
 
