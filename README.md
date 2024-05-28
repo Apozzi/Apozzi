@@ -19,7 +19,7 @@ I  have a strong foundation in mathematical concepts and research methodologies.
 
 ---
 
-My academic and professional journey has been deeply influenced by my passion for research and mathematics. I am particularly fascinated by data science and artificial intelligence, where mathematical models and algorithms play a crucial role. In my spare time, I enjoy reading scientific literature and exploring new mathematical theories. I am always eager to participate in hackathons and contribute to open-source projects, believing that collaboration and knowledge sharing are key to innovation.
+My academic and professional journey has been deeply influenced by my passion for research and mathematics. I am particularly fascinated by data science and artificial intelligence, where mathematical models and algorithms play a crucial role. In my spare time, I enjoy reading scientific literature and exploring new mathematical theories.
 
 ---
 
