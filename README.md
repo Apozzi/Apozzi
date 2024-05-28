@@ -4,7 +4,7 @@ My academic and professional journey has been deeply influenced by my passion fo
 
 ---
 
-Thank you for visiting my profile, please see the pinned projects above for more!
+Thank you for visiting my profile, please see the pinned projects below for more!
 
 ---
 
