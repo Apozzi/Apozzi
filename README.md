@@ -1,6 +1,6 @@
 #### About Me
 
-Deeply passion for research and mathematics. I am currently fascinated by optimization algorithms and quantum computing, where mathematical models play a crucial role. In my spare time, I enjoy reading scientific literature and exploring new mathematical theories.
+Deeply passion for research and mathematics. I am currently fascinated by optimization algorithms and quantum computing, where mathematical models play a crucial role. In my spare time, I enjoy reading scientific literature and exploring new theories.
 
 ---
 
