@@ -1,10 +1,10 @@
 #### About Me
 
-<div style="font-family: "ＭＳ Ｐゴシック";">My academic and professional journey has been deeply influenced by my passion for research and mathematics. I am particularly fascinated by optimization algorithms and quantum computing, where mathematical models play a crucial role. In my spare time, I enjoy reading scientific literature and exploring new mathematical theories.</div>
+My academic and professional journey has been deeply influenced by my passion for research and mathematics. I am particularly fascinated by optimization algorithms and quantum computing, where mathematical models play a crucial role. In my spare time, I enjoy reading scientific literature and exploring new mathematical theories.
 
 ---
-<div style="font-family: "ＭＳ Ｐゴシック";">
-Thank you for visiting my profile, please see the pinned projects below for more!</div>
+
+Thank you for visiting my profile, please see the pinned projects below for more!
 
 
 ---
