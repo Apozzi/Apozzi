@@ -4,7 +4,7 @@
 
 #### About Me
 
-I am a dedicated software developer with a profound interest in technology and innovation. My expertise lies in web development, particularly with technologies such as JavaScript, React, Node.js, and Python. I am constantly seeking to enhance my skills and knowledge.
+I am a dedicated software developer with a profound interest in technology and innovation. Dont care about language, if the thing is able to compute and is Turing complete so i probably able to program it. I am constantly seeking to enhance my skills and knowledge.
 
 I hold a degree in Computer Science from XYZ University and have a strong foundation in mathematical concepts and research methodologies. I am passionate about leveraging mathematical principles to solve complex problems and contribute to the field of software development.
 
