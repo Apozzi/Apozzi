@@ -27,7 +27,7 @@ Thank you for visiting my profile, please see the pinned projects below for more
     /></a>
     <a href="https://adeveloper.com.br"
       ><img
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
         alt="Website"
     /></a>
     <a href="mailto:eanderea1@protonmail.com"
