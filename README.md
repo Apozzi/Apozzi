@@ -6,7 +6,6 @@ Deeply passion for research and mathematics. I am currently fascinated by optimi
 
 Thank you for visiting my profile, please see the pinned projects below for more!
 
-
 ---
 
 #### Contact
