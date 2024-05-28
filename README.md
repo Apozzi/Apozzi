@@ -1,4 +1,4 @@
-### Anderson Pozzi
+### Pozzi
 
 ---
 
@@ -10,16 +10,11 @@ I hold a degree in Computer Science from XYZ University and have a strong founda
 
 ---
 
-#### GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersonpozzi&show_icons=true&theme=default)
----
-
 #### Contact
 
-- **Email**: andersonpozzi@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/andersonpozzi/)
-- **Portfolio**: [Your Portfolio](https://www.andersonpozzi.dev)
+- **Email**: eanderea1@protonmail.com
+- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/andersonpozzi/](https://www.linkedin.com/in/anderson-rodrigo-pozzi-a06246186/))
+- **Personal Website**: [Your Portfolio]([https://www.andersonpozzi.dev](https://adeveloper.com.br))
 
 ---
 
