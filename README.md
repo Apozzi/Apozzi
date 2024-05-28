@@ -2,7 +2,7 @@
 
 Deeply passion for research and mathematics. I am currently fascinated by optimization algorithms and quantum computing, where mathematical models play a crucial role. In my spare time, I enjoy reading scientific literature and exploring new mathematical theories.
 
-***
+___
 
 Thank you for visiting my profile, please see the pinned projects below for more!
 
