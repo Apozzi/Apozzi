@@ -13,15 +13,6 @@ I hold a degree in Computer Science from XYZ University and have a strong founda
 #### GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersonpozzi&show_icons=true&theme=default)
-
----
-
-#### Featured Projects
-
-- [**Project 1**](https://github.com/andersonpozzi/projeto1) - Brief description of the project.
-- [**Project 2**](https://github.com/andersonpozzi/projeto2) - Brief description of the project.
-- [**Project 3**](https://github.com/andersonpozzi/projeto3) - Brief description of the project.
-
 ---
 
 #### Contact
