@@ -10,16 +10,6 @@ I hold a degree in Computer Science from XYZ University and have a strong founda
 
 ---
 
-#### Skills and Tools
-
-- **Languages**: JavaScript, TypeScript, Python, Java
-- **Frameworks**: React, Node.js, Express, Django
-- **Tools**: Git, Docker, Webpack, Babel
-- **Databases**: MongoDB, PostgreSQL, MySQL
-- **Others**: GraphQL, REST APIs, Agile/Scrum
-
----
-
 #### GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersonpozzi&show_icons=true&theme=default)
