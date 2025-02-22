@@ -8,8 +8,9 @@
 #### Contact
 <!--
 ![linkedin](https://github.com/user-attachments/assets/7a84fc32-88fd-4f17-8744-f1f98714bb75)
-![website](https://github.com/user-attachments/assets/33dcfb45-9748-4fce-988d-a8497fa54d22)
-![email](https://github.com/user-attachments/assets/1810b129-c8f1-445b-8353-d907e2389be0)
+![website](https://github.com/user-attachments/assets/22798ee3-ce83-4e68-aef9-890efe8eb2c5)
+![email](https://github.com/user-attachments/assets/5e5b6197-159c-4f4d-8cf3-a055cde224dd)
+
 
 
 -->
@@ -30,12 +31,12 @@
     /></a>
     <a href="https://adeveloper.com.br"
       ><img
-        src="https://github.com/user-attachments/assets/33dcfb45-9748-4fce-988d-a8497fa54d22"
+        src="https://github.com/user-attachments/assets/22798ee3-ce83-4e68-aef9-890efe8eb2c5"
         alt="Website"
     /></a>
     <a href="mailto:eanderea1@protonmail.com"
       ><img
-        src="https://github.com/user-attachments/assets/1810b129-c8f1-445b-8353-d907e2389be0"
+        src="https://github.com/user-attachments/assets/5e5b6197-159c-4f4d-8cf3-a055cde224dd"
         alt="Email"
     /></a>
   </div>
