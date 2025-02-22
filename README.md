@@ -1,10 +1,6 @@
 #### About Me
 
-Deeply passion for research and mathematics. I am currently fascinated by optimization algorithms and quantum computing, where mathematical models play a crucial role. In my spare time, I enjoy reading scientific literature and exploring new mathematical theories.
-
----
-
-![https://github.com/Apozzi/Apozzi/assets/10789792/a9476f82-5af3-4769-97b6-f2f5d52e8274](https://github.com/Apozzi/Apozzi/assets/10789792/a9476f82-5af3-4769-97b6-f2f5d52e8274)
+![better](https://github.com/user-attachments/assets/f485d31d-c73c-4728-8024-2673d0f3bb5c)
 
 ---
 
