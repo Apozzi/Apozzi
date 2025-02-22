@@ -7,9 +7,11 @@
 
 #### Contact
 <!--
-![linkedin](https://github.com/user-attachments/assets/127ff165-2048-42af-be7d-c4228cd80425)
-![website](https://github.com/user-attachments/assets/6540479f-a15f-4a5b-a48a-e4458ec017df)
-![email](https://github.com/user-attachments/assets/bad14042-82b5-4f17-8da9-c6f72f9b6f27)
+![linkedin](https://github.com/user-attachments/assets/7a84fc32-88fd-4f17-8744-f1f98714bb75)
+![website](https://github.com/user-attachments/assets/33dcfb45-9748-4fce-988d-a8497fa54d22)
+![email](https://github.com/user-attachments/assets/1810b129-c8f1-445b-8353-d907e2389be0)
+
+
 -->
 
 <div
@@ -23,17 +25,17 @@
   >
     <a href="https://www.linkedin.com/in/anderson-rodrigo-pozzi-a06246186/"
       ><img 
-        src="https://github.com/user-attachments/assets/12a92a40-bc41-4314-9869-9c9e9e97b3ec"
+        src="https://github.com/user-attachments/assets/7a84fc32-88fd-4f17-8744-f1f98714bb75"
         alt="LinkedIn"
     /></a>
     <a href="https://adeveloper.com.br"
       ><img
-        src="https://github.com/user-attachments/assets/6540479f-a15f-4a5b-a48a-e4458ec017df"
+        src="https://github.com/user-attachments/assets/33dcfb45-9748-4fce-988d-a8497fa54d22"
         alt="Website"
     /></a>
     <a href="mailto:eanderea1@protonmail.com"
       ><img
-        src="https://github.com/user-attachments/assets/bad14042-82b5-4f17-8da9-c6f72f9b6f27"
+        src="https://github.com/user-attachments/assets/1810b129-c8f1-445b-8353-d907e2389be0"
         alt="Email"
     /></a>
   </div>
