@@ -41,7 +41,7 @@
 
 ---
 
-#### O que acha dessa linda obra de arte?
+#### What do you think of this beautiful work of art?
 
   ![Capturar](https://github.com/user-attachments/assets/cfc03611-57ee-454f-b339-158f34e5b6e1)
 
