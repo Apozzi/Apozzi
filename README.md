@@ -14,6 +14,7 @@
       flex-wrap: wrap;
       justify-content: center;
       align-content: center;
+      background-color:red;
     "
   >
     <a href="https://www.linkedin.com/in/anderson-rodrigo-pozzi-a06246186/"
