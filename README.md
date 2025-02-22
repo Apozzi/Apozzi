@@ -16,8 +16,8 @@
       align-content: center;
     "
   >
-    <a href="https://www.linkedin.com/in/anderson-rodrigo-pozzi-a06246186/"
-      ><img style="min-width: 111px;"
+    <a href="https://www.linkedin.com/in/anderson-rodrigo-pozzi-a06246186/" style="min-width: 111px;"
+      ><img 
         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="LinkedIn"
     /></a>
