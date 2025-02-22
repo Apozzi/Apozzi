@@ -1,6 +1,5 @@
-#### About Me
 
-![better](https://github.com/user-attachments/assets/f485d31d-c73c-4728-8024-2673d0f3bb5c)
+![better](https://github.com/user-attachments/assets/54a74a32-fb78-4715-9ebd-d841eed6c697)
 
 ---
 
