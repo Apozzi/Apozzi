@@ -2,6 +2,13 @@
 ![2](https://github.com/user-attachments/assets/425bc505-6c7c-44a3-8142-31325154a94d)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+
 ---
 
 #### Contact
@@ -31,6 +38,8 @@
         alt="Email"
     /></a>
   </div>
+
+  
 
 
 
